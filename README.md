@@ -1,4 +1,4 @@
-### Hey! Nice to meet you. I'm Arunima Shukla. :sunglasses:
+###  :sunglasses:Hey! Nice to meet you. I'm Arunima Shukla.
 
 <!--
 **ArunimaShukla03/ArunimaShukla03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
