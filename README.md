@@ -1,4 +1,4 @@
-##  :sunglasses: Hey! I'm Arunima Shukla.
+##  <img src="https://giphy.com/gifs/QWvra259h4LCvdJnxP" width="20" height="20"/> Hey! I'm Arunima Shukla.
 
 <!--
 **ArunimaShukla03/ArunimaShukla03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
