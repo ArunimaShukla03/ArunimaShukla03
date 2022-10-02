@@ -1,4 +1,4 @@
-##  <img src="https://giphy.com/gifs/hof5uMY0nBwxyjY9S2" width="18" height="18"/> Hey! I'm Arunima Shukla. And I am A.W.E.S.O.M.E.
+##  <img src="https://giphy.com/gifs/hof5uMY0nBwxyjY9S2" width="18" height="18"/> Hey! I'm Arunima Shukla. And I am.
 
 <!--
 **ArunimaShukla03/ArunimaShukla03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
