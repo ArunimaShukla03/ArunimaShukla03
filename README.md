@@ -1,4 +1,4 @@
-<h1 align="center">Hey &lt;devs/&gt;, I'm Arunima Shukla</h1>
+<h1 align="center">Hey &lt;devs/&gt;, this is Arunima Shukla</h1>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nima.s_1903) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunima-shukla-571a42229/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Aminuraxoxo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ArunimaShukla03) 
